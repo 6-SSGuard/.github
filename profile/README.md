@@ -20,7 +20,7 @@
 		- Github Actions
 		- Docker
  - BackEnd
-	 - Auth(Security & JWT & Redis)
+	 - Auth(Security & JWT & Redis)
 	 - 주문(Kakao pay) 
 	 - 상품, 브랜드
 	 - 카테고리
