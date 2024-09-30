@@ -54,6 +54,37 @@
 - FrontEnd CI/CD
     	- Vercel
    	- github action
+ 
+  ## 기술 스택
+### ⚙ Management Tool
+- 형상 관리 : Github
+- 이슈 관리 : git issue
+- 커뮤니케이션 : Notion, Discord
+- 디자인 : Figma
+
+### 💻 IDE
+- Visual Studio Code 1.18.5
+- IntelliJ IDEA community 2023.3.2
+
+### 📱 Frontend
+- Nextjs 14.2.5
+- Typescript 5.2.2
+- tailwind 
+- vercel
+
+
+### 💾 Backend
+- Springboot 3.22
+- Spring Data JPA
+- MySql 8.0.34
+
+### Infra
+- AWS S3
+- AWS EC2
+- Vercel
+- Docker: 25.0.3
+- mysql: 8.3.0
+- Ubuntu 20.04.6 LTS
   
     
   
