@@ -52,7 +52,7 @@
    	- 카테고리 통한 상품 찾기
    	- 브랜드 찾기
 - FrontEnd CI/CD
-    	- Vercel
+   	- Vercel
    	- github action
  
   ## 기술 스택
