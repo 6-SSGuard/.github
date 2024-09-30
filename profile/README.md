@@ -56,35 +56,18 @@
    	- github action
  
   ## 기술 스택
-### ⚙ Management Tool
-- 형상 관리 : Github
-- 이슈 관리 : git issue
-- 커뮤니케이션 : Notion, Discord
-- 디자인 : Figma
+### ⚙ Management Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 💻 IDE
-- Visual Studio Code 1.18.5
-- IntelliJ IDEA community 2023.3.2
 
 ### 📱 Frontend
-- Nextjs 14.2.5
-- Typescript 5.2.2
-- tailwind 
-- vercel
-
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ### 💾 Backend
-- Springboot 3.22
-- Spring Data JPA
-- MySql 8.0.34
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-green?style=for-the-badge)
 
-### Infra
-- AWS S3
-- AWS EC2
-- Vercel
-- Docker: 25.0.3
-- mysql: 8.3.0
-- Ubuntu 20.04.6 LTS
+### ☁ Infra
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
     
   
