@@ -76,4 +76,4 @@
 <hr>
 
 ### 아키텍처 설계도
-<img title="" src="https://github.com/user-attachments/assets/6eab5e7e-3db9-4995-96a2-00498621128d" alt="" width="800">
+<img title="" src="https://github.com/user-attachments/assets/00944b03-8166-4a05-a7d2-fb97397637e2" alt="" width="800">
