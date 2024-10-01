@@ -76,4 +76,3 @@
 <hr>
 
 ### 아키텍처 설계도
-<img title="" src="https://github.com/6-SSGuard/.github/blob/main/profile/ReadmeAsset/%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2.gif?raw=true" alt="" width="800">
