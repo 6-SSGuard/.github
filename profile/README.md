@@ -76,4 +76,4 @@
 <hr>
 
 ### 아키텍처 설계도
-<img title="" src="profile/ReadmeAsset/리뷰.gif" alt="" width="800">
+<img title="" src="./profile/ReadmeAsset/리뷰.gif" alt="" width="800">
